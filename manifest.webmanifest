@@ -1,0 +1,21 @@
+{
+	"short_name": "CombineFruits",
+	"name": "CombineFruits",
+	"theme_color": "#008b8b",
+	"background_color": "#68d075",
+	"description": "A Cool Fruit Game ",
+	"display": "standalone",
+	"icons": [
+		{
+			"src": "image/icons/icon1.png",
+			"type": "image/png",
+			"sizes": "192x192"
+		},
+		{
+			"src": "image/icons/icon2.png",
+			"type": "image/png",
+			"sizes": "512x512"
+		}
+	],
+	"start_url": "."
+}
